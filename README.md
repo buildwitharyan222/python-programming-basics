@@ -1,4 +1,4 @@
-# Python Programming Basics
+# Python Programming Basics (Calculator)
 
 ## About
 This repository contains my beginner-level Python programs and practice exercises as I develop my programming skills for a career in cybersecurity.
